@@ -7,6 +7,74 @@
     {
       "id": "dental-team-florida",
       "name": "Dental Team Florida"
+    },
+    {
+      "id": "affordable-dental",
+      "name": "Affordable Dental"
+    },
+    {
+      "id": "bethesda-family-dentistry",
+      "name": "Bethesda Family Dentistry"
+    },
+    {
+      "id": "double-oak-mountain-family-dentistry",
+      "name": "Double Oak Mountain Family Dentistry"
+    },
+    {
+      "id": "envision-a-smile",
+      "name": "Envision A Smile"
+    },
+    {
+      "id": "family-implant-dentistry-stuart",
+      "name": "Family & Implant Dentistry of Stuart"
+    },
+    {
+      "id": "family-dentistry-boynton-beach",
+      "name": "Family Dentistry of Boynton Beach"
+    },
+    {
+      "id": "mid-missouri-dental-center",
+      "name": "Mid Missouri Dental Center"
+    },
+    {
+      "id": "molar-city",
+      "name": "Molar City, P.C."
+    },
+    {
+      "id": "premier-dentistry",
+      "name": "Premier Dentistry"
+    },
+    {
+      "id": "redwood-family-dentistry",
+      "name": "Redwood Family Dentistry"
+    },
+    {
+      "id": "seaside-dental-jacksonville",
+      "name": "Seaside Dental of Jacksonville"
+    },
+    {
+      "id": "shemen-dental-group",
+      "name": "Shemen Dental Group"
+    },
+    {
+      "id": "stonebriar-smile-design",
+      "name": "Stonebriar Smile Design"
+    },
+    {
+      "id": "suwanee-family-dentistry",
+      "name": "Suwanee Family Dentistry"
+    },
+    {
+      "id": "tulare-family-dentistry",
+      "name": "Tulare Family Dentistry"
+    },
+    {
+      "id": "united-smiles",
+      "name": "United Smiles"
+    },
+    {
+      "id": "young-family-dental",
+      "name": "Young Family Dental"
     }
   ],
   "locations": [
@@ -66,7 +134,7 @@
       "name": "Lakewood Lafayette",
       "practiceId": "lakewood-family-dental",
       "websiteUrl": "https://book.modento.io/lakewood-family-dental-lafayette/reason-for-visit",
-      "googleMapsUrl": "https://maps.app.goo.gl/Wvo33NDguBKfF4Z3A",
+      "googleMapsUrl": "https://maps.app.goo.gl/ULBYUSSWUHaBcfCT9",
       "expectedAppointmentTypes": [
         "Existing Patient Child (12 - Below)",
         "New Patient Exam & Cleaning (12 - Below)",
@@ -191,6 +259,222 @@
         "Emergency Exam",
         "New Patient Exam and X-Rays Only"
       ]
+    },
+    {
+      "id": "affordable-el-paso-robert-wynn",
+      "name": "Affordable Dental - El Paso (Robert Wynn)",
+      "practiceId": "affordable-dental",
+      "websiteUrl": "https://book.modento.io/affordable-dental-el-paso-robert-wynn/reason-for-visit",
+      "googleMapsUrl": "https://maps.app.goo.gl/kZVmUvUppiyEBBta7",
+      "expectedAppointmentTypes": []
+    },
+    {
+      "id": "affordable-el-paso-tx-ave",
+      "name": "Affordable Dental - El Paso (Tx Ave)",
+      "practiceId": "affordable-dental",
+      "websiteUrl": "https://book.modento.io/affordable-dental-el-paso-tx-ave/reason-for-visit",
+      "googleMapsUrl": "https://maps.app.goo.gl/opyNk7itCUmYGvAY7",
+      "expectedAppointmentTypes": []
+    },
+    {
+      "id": "affordable-socorro",
+      "name": "Affordable Dental - Socorro",
+      "practiceId": "affordable-dental",
+      "websiteUrl": "https://book.modento.io/affordable-dental-socorro/reason-for-visit",
+      "googleMapsUrl": "https://maps.app.goo.gl/QuF5jSuDrm1oWTn68",
+      "expectedAppointmentTypes": []
+    },
+    {
+      "id": "bethesda-executive",
+      "name": "Bethesda Family Dentistry - Executive",
+      "practiceId": "bethesda-family-dentistry",
+      "websiteUrl": "https://book.modento.io/bethesda-family-dentistry-executive/reason-for-visit",
+      "googleMapsUrl": "https://maps.app.goo.gl/gfpfabbhF5hZ42216",
+      "expectedAppointmentTypes": []
+    },
+    {
+      "id": "bethesda-fernwood",
+      "name": "Bethesda Family Dentistry - Fernwood",
+      "practiceId": "bethesda-family-dentistry",
+      "websiteUrl": "https://book.modento.io/bethesda-family-dentistry-fernwood/reason-for-visit",
+      "googleMapsUrl": "https://maps.app.goo.gl/UZeixA4phqCVHEXq5",
+      "expectedAppointmentTypes": []
+    },
+    {
+      "id": "double-oak-mountain",
+      "name": "Double Oak Mountain Family Dentistry",
+      "practiceId": "double-oak-mountain-family-dentistry",
+      "websiteUrl": "https://book.modento.io/double-oak-mountain-family-dentistry/reason-for-visit",
+      "googleMapsUrl": "https://maps.app.goo.gl/jCSYJ64YSartnFR17",
+      "expectedAppointmentTypes": []
+    },
+    {
+      "id": "envision-sleepy-hollow",
+      "name": "Envision A Smile - Sleepy Hollow",
+      "practiceId": "envision-a-smile",
+      "websiteUrl": "https://book.modento.io/pro-dental-care-sleepy-hollow/reason-for-visit",
+      "googleMapsUrl": "https://maps.app.goo.gl/kRm8rPUGq5gfe1xu6",
+      "expectedAppointmentTypes": []
+    },
+    {
+      "id": "envision-south-elgin",
+      "name": "Envision A Smile - South Elgin",
+      "practiceId": "envision-a-smile",
+      "websiteUrl": "https://book.modento.io/c/7bfc2f016e4843a78d15136fb049e20e/website/reason-for-visit",
+      "googleMapsUrl": "https://maps.app.goo.gl/A12pxWBEJZuP8AL26",
+      "expectedAppointmentTypes": []
+    },
+    {
+      "id": "envision-st-charles",
+      "name": "Envision A Smile - St. Charles",
+      "practiceId": "envision-a-smile",
+      "websiteUrl": "https://book.modento.io/c/d46e572df7c5446ea0c5346909150994/website/reason-for-visit",
+      "googleMapsUrl": "https://maps.app.goo.gl/38hdna8J4t4S8orm9",
+      "expectedAppointmentTypes": []
+    },
+    {
+      "id": "family-implant-stuart",
+      "name": "Family & Implant Dentistry of Stuart",
+      "practiceId": "family-implant-dentistry-stuart",
+      "websiteUrl": "https://book.modento.io/c/6eb2eaa94aae4d0b93a7d6caacf51e44/website/reason-for-visit",
+      "googleMapsUrl": "https://maps.app.goo.gl/ASSYPhLZwgUcjSPM7",
+      "expectedAppointmentTypes": []
+    },
+    {
+      "id": "family-dentistry-boynton-beach",
+      "name": "Family Dentistry of Boynton Beach",
+      "practiceId": "family-dentistry-boynton-beach",
+      "websiteUrl": "https://book.modento.io/premier-dentistry-of-boynton-beach-2/reason-for-visit",
+      "googleMapsUrl": "https://maps.app.goo.gl/SKqjZvwv9LiZFkJM9",
+      "expectedAppointmentTypes": []
+    },
+    {
+      "id": "mid-missouri",
+      "name": "Mid Missouri Dental Center",
+      "practiceId": "mid-missouri-dental-center",
+      "websiteUrl": "https://book.modento.io/mid-missouri-dental-center/reason-for-visit",
+      "googleMapsUrl": "https://maps.app.goo.gl/opVnhAY1QQkvWvoS8",
+      "expectedAppointmentTypes": []
+    },
+    {
+      "id": "molar-city",
+      "name": "Molar City, P.C.",
+      "practiceId": "molar-city",
+      "websiteUrl": "https://booking.adit.com/9d609b3f-a7bf-4e61-9b50-cc0db57a73ea",
+      "googleMapsUrl": "https://maps.app.goo.gl/ELtKpR79c3v1AK6U9",
+      "expectedAppointmentTypes": []
+    },
+    {
+      "id": "premier-palm-beach",
+      "name": "Premier Dentistry - Palm Beach",
+      "practiceId": "premier-dentistry",
+      "websiteUrl": "https://book.modento.io/premier-dentistry-palm-beach/reason-for-visit",
+      "googleMapsUrl": "https://maps.app.goo.gl/uQDtie1vd4w4GRXw7",
+      "expectedAppointmentTypes": []
+    },
+    {
+      "id": "redwood-family-dentistry",
+      "name": "Redwood Family Dentistry",
+      "practiceId": "redwood-family-dentistry",
+      "websiteUrl": "https://book.modento.io/redwoodfamilydentistry/patient-details",
+      "googleMapsUrl": "https://maps.app.goo.gl/8NRqpXhoj4WTG6R99",
+      "expectedAppointmentTypes": []
+    },
+    {
+      "id": "seaside-jacksonville",
+      "name": "Seaside Dental of Jacksonville",
+      "practiceId": "seaside-dental-jacksonville",
+      "websiteUrl": "https://book.modento.io/seaside-dental-of-jacksonville/reason-for-visit",
+      "googleMapsUrl": "https://maps.app.goo.gl/9sGFsFzSzVZht87n9",
+      "expectedAppointmentTypes": []
+    },
+    {
+      "id": "shemen-dental",
+      "name": "Shemen Dental Group",
+      "practiceId": "shemen-dental-group",
+      "websiteUrl": "https://book.modento.io/shemen-dental-group-llp/reason-for-visit",
+      "googleMapsUrl": "https://maps.app.goo.gl/ybTQtbC4qVsWxfzp8",
+      "expectedAppointmentTypes": []
+    },
+    {
+      "id": "stonebriar-smile-design",
+      "name": "Stonebriar Smile Design",
+      "practiceId": "stonebriar-smile-design",
+      "websiteUrl": "https://book.modento.io/c/9977e905c899428b93cd0d5712ee11ba/website/patient-details",
+      "googleMapsUrl": "https://maps.app.goo.gl/Hy5c5Kz9iqJf6KLC9",
+      "expectedAppointmentTypes": []
+    },
+    {
+      "id": "suwanee-family-dentistry",
+      "name": "Suwanee Family Dentistry",
+      "practiceId": "suwanee-family-dentistry",
+      "websiteUrl": "https://book.modento.io/suwaneefamilydentistry/reason-for-visit",
+      "googleMapsUrl": "https://maps.app.goo.gl/L9GJFhsUhYXinyNp7",
+      "expectedAppointmentTypes": []
+    },
+    {
+      "id": "tulare-family-dentistry",
+      "name": "Tulare Family Dentistry",
+      "practiceId": "tulare-family-dentistry",
+      "websiteUrl": "https://book.modento.io/tularefamilydentistry/patient-details",
+      "googleMapsUrl": "https://maps.app.goo.gl/HqNJ3A414367jFSr9",
+      "expectedAppointmentTypes": []
+    },
+    {
+      "id": "united-smiles-colonial-heights",
+      "name": "United Smiles - Colonial Heights",
+      "practiceId": "united-smiles",
+      "websiteUrl": "https://book.modento.io/united-smiles-colonial-heights/reason-for-visit",
+      "googleMapsUrl": "https://maps.app.goo.gl/ofm4Bu2gaa6Bu46S6",
+      "expectedAppointmentTypes": []
+    },
+    {
+      "id": "united-smiles-glen-allen",
+      "name": "United Smiles - Glen Allen",
+      "practiceId": "united-smiles",
+      "websiteUrl": "https://book.modento.io/c/b551eef5c87742139fd6c4edc14e8cf5/web/reason-for-visit",
+      "googleMapsUrl": "https://maps.app.goo.gl/3dakA1j42nBLM2xo9",
+      "expectedAppointmentTypes": []
+    },
+    {
+      "id": "young-family-american-fork",
+      "name": "Young Family Dental - American Fork",
+      "practiceId": "young-family-dental",
+      "websiteUrl": "https://book.modento.io/young-family-dental-american-fork/reason-for-visit",
+      "googleMapsUrl": "https://maps.app.goo.gl/F1TyMtL6Ygg3HbK86",
+      "expectedAppointmentTypes": []
+    },
+    {
+      "id": "young-family-orem",
+      "name": "Young Family Dental - Orem",
+      "practiceId": "young-family-dental",
+      "websiteUrl": "https://book.modento.io/young-family-dental-orem/patient-details",
+      "googleMapsUrl": "https://maps.app.goo.gl/jcSvWQX5sCV2afwL7",
+      "expectedAppointmentTypes": []
+    },
+    {
+      "id": "young-family-riverton",
+      "name": "Young Family Dental - Riverton",
+      "practiceId": "young-family-dental",
+      "websiteUrl": "https://book.modento.io/young-family-dental-riverton/reason-for-visit",
+      "googleMapsUrl": "https://maps.app.goo.gl/R11QYDHk3XrGoipB9",
+      "expectedAppointmentTypes": []
+    },
+    {
+      "id": "young-family-saratoga-springs",
+      "name": "Young Family Dental - Saratoga Springs",
+      "practiceId": "young-family-dental",
+      "websiteUrl": "https://book.modento.io/young-family-dental-saratoga-springs/reason-for-visit",
+      "googleMapsUrl": "https://maps.app.goo.gl/hGxWV2VCrRAKhFoA8",
+      "expectedAppointmentTypes": []
+    },
+    {
+      "id": "young-family-west-jordan",
+      "name": "Young Family Dental - West Jordan",
+      "practiceId": "young-family-dental",
+      "websiteUrl": "https://book.modento.io/young-family-dental-west-jordan/reason-for-visit",
+      "googleMapsUrl": "https://maps.app.goo.gl/ymEtwRunYpRFn1b76",
+      "expectedAppointmentTypes": []
     }
   ]
 }

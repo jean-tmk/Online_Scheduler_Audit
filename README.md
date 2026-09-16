@@ -1,9 +1,8 @@
 # Online Scheduler Audit
 
 A public, read-only dashboard that tracks weekly audits of the public
-website scheduler and Google Business Profile booking link for 14 dental
-office locations across two general practices (Lakewood Family Dental and
-Dental Team Florida).
+website scheduler and Google Business Profile booking link for 41 dental
+office locations across 19 practice groups.
 
 It's a static site — no server, no database, no login. All shared state
 lives in one JSON file, [`data/audits.json`](data/audits.json), which this
@@ -37,18 +36,16 @@ docs/
 ## How the data model works
 
 - **`practices` and `locations`** in `data/audits.json` are the *protected
-  registry* — the 2 practices, 14 locations, their scheduler/Google URLs,
+  registry* — the 19 practice groups, 41 locations, their scheduler/Google URLs,
   and each location's expected appointment types. This almost never
   changes, and `data/registry-lock.json` is a frozen copy of it that CI
   checks against on every change, so a routine audit update can't
   accidentally rename, remove, or overwrite a location.
 - **`auditHistory`** is an append-only log of raw observations, one entry
   per completed audit of one location. A location with no entries yet
-  shows as **Not Yet Audited** — that's the initial state for all 14
-  locations.
+  shows as **Not Yet Audited** until its first completed run.
 - The dashboard itself computes everything derived — overall status
-  (Passed / Warning / Failed / Manual Review), missing/unexpected
-  appointment types, label differences, and week-over-week change
+  (Passed / Warning / Failed / Manual Review), per-appointment-type availability failures and week-over-week change
   summaries — from the raw entries, every time the page loads. Nothing
   derived is stored, so the comparison and status rules are always applied
   consistently. The full rules are documented in
