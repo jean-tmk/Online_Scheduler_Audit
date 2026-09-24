@@ -278,7 +278,6 @@
       "websiteUrl": "https://book.modento.io/affordable-dental-el-paso-robert-wynn/reason-for-visit",
       "googleMapsUrl": "https://maps.app.goo.gl/kZVmUvUppiyEBBta7",
       "expectedAppointmentTypes": [
-        "Whitening Service",
         "Emergency Consult",
         "Hygiene Recall",
         "New Patient Exam & Cleaning"
@@ -304,7 +303,6 @@
       "websiteUrl": "https://book.modento.io/affordable-dental-socorro/reason-for-visit",
       "googleMapsUrl": "https://maps.app.goo.gl/QuF5jSuDrm1oWTn68",
       "expectedAppointmentTypes": [
-        "Whitening Service",
         "Emergency Consult",
         "Adult Hygiene Recall",
         "Child Hygiene Recall",
@@ -630,7 +628,7 @@
       "expectedAppointmentTypes": [
         "Invisalign Consultation",
         "Cosmetic Consult - Comprehensive Exam, Wellness Scan & X-Rays",
-        "New or Existing Patient Emergency Appointment",
+        "Emergency Appointment (New & Existing Patients)",
         "New Patient Cleaning",
         "New Patient Consultation",
         "Existing Patient Cleaning"

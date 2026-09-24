@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-24T17:52:41Z",
-  "updatedBy": "Codex live browser audit",
+  "updatedAt": "2026-09-24T18:15:08Z",
+  "updatedBy": "Codex live browser audit correction",
   "practices": [
     {
       "id": "lakewood-family-dental",
@@ -281,7 +281,6 @@
       "websiteUrl": "https://book.modento.io/affordable-dental-el-paso-robert-wynn/reason-for-visit",
       "googleMapsUrl": "https://maps.app.goo.gl/kZVmUvUppiyEBBta7",
       "expectedAppointmentTypes": [
-        "Whitening Service",
         "Emergency Consult",
         "Hygiene Recall",
         "New Patient Exam & Cleaning"
@@ -307,7 +306,6 @@
       "websiteUrl": "https://book.modento.io/affordable-dental-socorro/reason-for-visit",
       "googleMapsUrl": "https://maps.app.goo.gl/QuF5jSuDrm1oWTn68",
       "expectedAppointmentTypes": [
-        "Whitening Service",
         "Emergency Consult",
         "Adult Hygiene Recall",
         "Child Hygiene Recall",
@@ -633,7 +631,7 @@
       "expectedAppointmentTypes": [
         "Invisalign Consultation",
         "Cosmetic Consult - Comprehensive Exam, Wellness Scan & X-Rays",
-        "New or Existing Patient Emergency Appointment",
+        "Emergency Appointment (New & Existing Patients)",
         "New Patient Cleaning",
         "New Patient Consultation",
         "Existing Patient Cleaning"
@@ -17343,6 +17341,192 @@
       "manualReviewReason": "",
       "brokenOrIncorrectLinks": [],
       "notes": "Website-only live audit on September 24, 2026. Every tested appointment type displayed at least one appointment time.",
+      "evidenceLinks": []
+    },
+    {
+      "auditId": "seaside-jacksonville__2026-09-24T18:15:08Z",
+      "locationId": "seaside-jacksonville",
+      "checkedAt": "2026-09-24T18:15:08Z",
+      "auditedBy": "Codex live browser audit correction",
+      "auditSource": "Website Only",
+      "websiteSchedulerStatus": "Working",
+      "websiteLoadPerformance": "Normal",
+      "googleSchedulerStatus": "NotChecked",
+      "observedWebsiteAppointmentTypes": [
+        "Existing Patient Exam & Cleaning",
+        "Doctor Consultation",
+        "Emergency Exam & Xrays",
+        "New Patient Exam, Xrays & Cleaning"
+      ],
+      "observedGoogleAppointmentTypes": [],
+      "websiteAppointmentAvailability": [
+        {
+          "appointmentType": "Existing Patient Exam & Cleaning",
+          "availabilityLoaded": true,
+          "verificationStatus": "Available"
+        },
+        {
+          "appointmentType": "Doctor Consultation",
+          "availabilityLoaded": true,
+          "verificationStatus": "Available"
+        },
+        {
+          "appointmentType": "Emergency Exam & Xrays",
+          "availabilityLoaded": true,
+          "verificationStatus": "Available"
+        },
+        {
+          "appointmentType": "New Patient Exam, Xrays & Cleaning",
+          "availabilityLoaded": true,
+          "verificationStatus": "Available"
+        }
+      ],
+      "googleAppointmentAvailability": [],
+      "manualReviewNeeded": false,
+      "manualReviewReason": "",
+      "brokenOrIncorrectLinks": [],
+      "notes": "Corrected live audit on September 24, 2026. Every configured appointment type displayed at least one appointment time.",
+      "evidenceLinks": []
+    },
+    {
+      "auditId": "affordable-el-paso-robert-wynn__2026-09-24T18:15:08Z",
+      "locationId": "affordable-el-paso-robert-wynn",
+      "checkedAt": "2026-09-24T18:15:08Z",
+      "auditedBy": "Codex live browser audit correction",
+      "auditSource": "Website Only",
+      "websiteSchedulerStatus": "Working",
+      "websiteLoadPerformance": "Normal",
+      "googleSchedulerStatus": "NotChecked",
+      "observedWebsiteAppointmentTypes": [
+        "Emergency Consult",
+        "Hygiene Recall",
+        "New Patient Exam & Cleaning"
+      ],
+      "observedGoogleAppointmentTypes": [],
+      "websiteAppointmentAvailability": [
+        {
+          "appointmentType": "Emergency Consult",
+          "availabilityLoaded": true,
+          "verificationStatus": "Available"
+        },
+        {
+          "appointmentType": "Hygiene Recall",
+          "availabilityLoaded": true,
+          "verificationStatus": "Available"
+        },
+        {
+          "appointmentType": "New Patient Exam & Cleaning",
+          "availabilityLoaded": true,
+          "verificationStatus": "Available"
+        }
+      ],
+      "googleAppointmentAvailability": [],
+      "manualReviewNeeded": false,
+      "manualReviewReason": "",
+      "brokenOrIncorrectLinks": [],
+      "notes": "Corrected live audit on September 24, 2026. Every configured appointment type displayed at least one appointment time.",
+      "evidenceLinks": []
+    },
+    {
+      "auditId": "affordable-socorro__2026-09-24T18:15:08Z",
+      "locationId": "affordable-socorro",
+      "checkedAt": "2026-09-24T18:15:08Z",
+      "auditedBy": "Codex live browser audit correction",
+      "auditSource": "Website Only",
+      "websiteSchedulerStatus": "Working",
+      "websiteLoadPerformance": "Normal",
+      "googleSchedulerStatus": "NotChecked",
+      "observedWebsiteAppointmentTypes": [
+        "Emergency Consult",
+        "Adult Hygiene Recall",
+        "Child Hygiene Recall",
+        "New Patient Exam & Cleaning"
+      ],
+      "observedGoogleAppointmentTypes": [],
+      "websiteAppointmentAvailability": [
+        {
+          "appointmentType": "Emergency Consult",
+          "availabilityLoaded": true,
+          "verificationStatus": "Available"
+        },
+        {
+          "appointmentType": "Adult Hygiene Recall",
+          "availabilityLoaded": true,
+          "verificationStatus": "Available"
+        },
+        {
+          "appointmentType": "Child Hygiene Recall",
+          "availabilityLoaded": true,
+          "verificationStatus": "Available"
+        },
+        {
+          "appointmentType": "New Patient Exam & Cleaning",
+          "availabilityLoaded": true,
+          "verificationStatus": "Available"
+        }
+      ],
+      "googleAppointmentAvailability": [],
+      "manualReviewNeeded": false,
+      "manualReviewReason": "",
+      "brokenOrIncorrectLinks": [],
+      "notes": "Corrected live audit on September 24, 2026. Every configured appointment type displayed at least one appointment time.",
+      "evidenceLinks": []
+    },
+    {
+      "auditId": "philadelphia-dentistry__2026-09-24T18:15:08Z",
+      "locationId": "philadelphia-dentistry",
+      "checkedAt": "2026-09-24T18:15:08Z",
+      "auditedBy": "Codex live browser audit correction",
+      "auditSource": "Website Only",
+      "websiteSchedulerStatus": "Working",
+      "websiteLoadPerformance": "Normal",
+      "googleSchedulerStatus": "NotChecked",
+      "observedWebsiteAppointmentTypes": [
+        "Invisalign Consultation",
+        "Cosmetic Consult - Comprehensive Exam, Wellness Scan & X-Rays",
+        "Emergency Appointment (New & Existing Patients)",
+        "New Patient Cleaning",
+        "New Patient Consultation",
+        "Existing Patient Cleaning"
+      ],
+      "observedGoogleAppointmentTypes": [],
+      "websiteAppointmentAvailability": [
+        {
+          "appointmentType": "Invisalign Consultation",
+          "availabilityLoaded": true,
+          "verificationStatus": "Available"
+        },
+        {
+          "appointmentType": "Cosmetic Consult - Comprehensive Exam, Wellness Scan & X-Rays",
+          "availabilityLoaded": true,
+          "verificationStatus": "Available"
+        },
+        {
+          "appointmentType": "Emergency Appointment (New & Existing Patients)",
+          "availabilityLoaded": true,
+          "verificationStatus": "Available"
+        },
+        {
+          "appointmentType": "New Patient Cleaning",
+          "availabilityLoaded": true,
+          "verificationStatus": "Available"
+        },
+        {
+          "appointmentType": "New Patient Consultation",
+          "availabilityLoaded": true,
+          "verificationStatus": "Available"
+        },
+        {
+          "appointmentType": "Existing Patient Cleaning",
+          "availabilityLoaded": true,
+          "verificationStatus": "Available"
+        }
+      ],
+      "googleAppointmentAvailability": [],
+      "manualReviewNeeded": false,
+      "manualReviewReason": "",
+      "brokenOrIncorrectLinks": [],
+      "notes": "Corrected live audit on September 24, 2026. Every configured appointment type displayed at least one appointment time.",
       "evidenceLinks": []
     }
   ]
